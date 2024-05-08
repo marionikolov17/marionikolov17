@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Nikolov</h1>
 <h3 align="center">A passionate javascript web developer from Bulgaria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marionikolov17&label=Profile%20views&color=0e75b6&style=flat" alt="marionikolov17" /> </p>
 
 - <h2>🌱 I’m currently learning - React.js</h2>
 
