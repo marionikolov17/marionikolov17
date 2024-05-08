@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Nikolov</h1>
-<h3 align="center">A passionate javascript web developer from Bulgaria</h3>
+<h3 align="center">A passionate Javascript Web Developer from Bulgaria</h3>
 
 
 - <h2>🌱 I’m currently learning - React.js</h2>
