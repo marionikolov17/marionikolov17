@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marionikolov17&label=Profile%20views&color=0e75b6&style=flat" alt="marionikolov17" /> </p>
 
-- <h2>🌱 I’m currently learning React.js</h2>
+- <h2>🌱 I’m currently learning - React.js</h2>
 
-- <h2>📫 How to reach me: <span style="color: blue;">marionikolovdev@gmail.com</spam></h2>
+- <h2>📫 How to reach me - <span style="color: blue;">marionikolovdev@gmail.com</span></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
