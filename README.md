@@ -5,7 +5,7 @@
 
 - <h2>🌱 I’m currently learning - React.js</h2>
 
-- <h2>📫 How to reach me - <span style="color: blue;">marionikolovdev@gmail.com</span></h2>
+- <h2>📫 How to reach me - marionikolovdev@gmail.com</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
