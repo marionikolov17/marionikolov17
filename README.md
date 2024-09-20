@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marionikolov17&label=Profile%20views&color=0e75b6&style=flat" alt="marionikolov17" /> </p>
 
-- 🔭 I’m currently working on **Zynkle**
+- 🔭 I’m currently working on **Portfolio Builder**
 
-- 🌱 I’m currently learning **React + Redux**
+- 🌱 I’m currently polishing my skills in **React + Redux**
 
 - 📫 How to reach me **marionikolovdev@gmail.com**
+
+- 👨‍💻 All my projects are available at **www.marionikolovdev.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
